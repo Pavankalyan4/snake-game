@@ -1,0 +1,25 @@
+#gameContainer{
+    text-align: center;
+}
+#gameBoard{
+    border: 3px solid;
+}
+#score{
+    font-family: "Comic Sans MS";
+    font-size: 100px;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-style: italic;
+    
+}
+#resetBtn{
+    font-family: "Comic Sans MS";
+    font-size: 22px;
+    width:100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor:pointer;
+}
